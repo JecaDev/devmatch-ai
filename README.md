@@ -94,9 +94,3 @@ Este projeto está sendo construído com foco em aprendizado, mas contribuiçõe
 **Jean Carlos (ShocK)**
 Desenvolvedor em formação, apaixonado por tecnologia, IA e interfaces modernas.
 [LinkedIn](https://www.linkedin.com/in/jeancarlos1302/) · [Instagram](https://www.instagram.com/gradedbyjean/)
-
-
-Se quiser, posso gerar esse `README.md` automaticamente e já colocar dentro do seu projeto também.
-
-Deseja que eu faça isso por você agora?
-```
